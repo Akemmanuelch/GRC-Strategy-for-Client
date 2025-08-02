@@ -25,20 +25,16 @@ This project provides a complete Governance, Risk, and Compliance (GRC) strategy
 - Prepare the organization for full compliance within 12 months  
 
 ---
+---
 
-## 🔗 Client Brief
+## 📄 Linked Documents
 
-This GRC strategy was developed based on the following client brief:  
-[View Client Overview](https://www.canva.com/design/DAGYuVZOy9w/3fVKaVXsEfUHjQd1-SAHGA/view?utm_content=DAGYuVZOy9w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+1. [Client Overview](docs/client_overview.md)
+2. [Risk Assessment](docs/risk_assessment.md)
+3. [Controls Implementation](docs/governance_policies.md)
+4. [Compliance Roadmap](docs/compliance_roadmap.md)
+5. [Incident Response Plan](docs/incident_response_plan.md)
+6. [Executive Summary](docs/executive_summary.md)
 
----## 📄 Table of Contents
-
-1. [Client Overview](https://github.com/Akemmanuelch/GRC-Strategy-for-Client/blob/main/docs/client_overview.md)
-2. [Risk Assessment](https://github.com/Akemmanuelch/GRC-Strategy-for-Client/blob/main/docs/risk_assessment.md)
-3. [Controls Implementation](https://github.com/Akemmanuelch/GRC-Strategy-for-Client/blob/main/docs/controls_implementation.md)
-4. [Compliance Roadmap](https://github.com/Akemmanuelch/GRC-Strategy-for-Client/blob/main/docs/compliance_roadmap.md)
-5. [Executive Summary](https://github.com/Akemmanuelch/GRC-Strategy-for-Client/blob/main/docs/executive_summary.md)
-
-
-This project is part of a portfolio for showcasing GRC and cybersecurity strategy capabilities.
+gy capabilities.
 
