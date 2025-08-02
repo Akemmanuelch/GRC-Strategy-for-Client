@@ -26,4 +26,12 @@ This project provides a complete Governance, Risk, and Compliance (GRC) strategy
 
 ---
 
+## 🔗 Client Brief
+
+This GRC strategy was developed based on the following client brief:  
+[View Client Overview](https://www.canva.com/design/DAGYuVZOy9w/3fVKaVXsEfUHjQd1-SAHGA/view?utm_content=DAGYuVZOy9w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+---
+
 This project is part of a portfolio for showcasing GRC and cybersecurity strategy capabilities.
+
