@@ -8,7 +8,7 @@ A Governance, Risk, and Compliance (GRC) strategy project for a client operating
 
 ## 🧭 Project Overview
 
-This project provides a complete Governance, Risk, and Compliance (GRC) strategy for a fictional client, DataServe Solutions — a fast-growing tech company operating in multiple jurisdictions. It covers regulatory alignment with PCI DSS, GDPR, and CCPA.
+This project provides a complete Governance, Risk, and Compliance (GRC) strategy for a fictional client, DataServe Solutions , a fast-growing tech company operating in multiple jurisdictions. It covers regulatory alignment with PCI DSS, GDPR, and CCPA.
 
 ## 📂 What’s Included
 
