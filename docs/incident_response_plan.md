@@ -33,4 +33,4 @@
 ## 4.4 Testing Schedule
 
 - **Tabletop Exercises:** Biannual — next scheduled for **April 10, 2025**  
-- **Live Drills:** Annual — next scheduled for **November 1, 2026**
+- **Live Drills:** Annual — next scheduled for **November 1, 2025**
